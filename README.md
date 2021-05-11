@@ -1,2 +1,2 @@
 # ILoveVanilaIcecream
-Vanila Code for me
+Vanila model for me
